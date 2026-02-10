@@ -23,8 +23,8 @@ I help businesses create **fast, accessible, and responsive** web experiences us
 
 ### 📊 GitHub Stats
 | My GitHub Stats | Top Languages |
-| :--- | :--- |
-| ![Emmanuel's Stats](https://github-readme-stats.vercel.app/api?username=emmanuel3186&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuel3186&layout=compact&theme=radical) |
+|----------------|---------------|
+| ![Stats](https://github-readme-stats.vercel.app/api?username=emmanuelfolorunsho&show_icons=true&theme=tokyonight) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelfolorunsho&layout=compact&theme=tokyonight) |
 
 ---
 

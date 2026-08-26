@@ -21,9 +21,11 @@ I build utility tools, web applications, and CLI software. Passionate about writ
 
 ---
 
-###  GitHub Stats
-![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmanuel3186&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuel3186&layout=compact&theme=dark)
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=emmanuel3186&show_icons=true&theme=dark" alt="Emmanuel's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=emmanuel3186&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+</p>
 
 ---
 

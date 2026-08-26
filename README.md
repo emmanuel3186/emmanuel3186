@@ -22,8 +22,7 @@ I build utility tools, web applications, and CLI software. Passionate about writ
 ---
 
 ### 📊 GitHub Stats
-![Commits](https://img.shields.io/github/commit-activity/m/emmanuel3186/web-scraper-summarizer?style=for-the-badge&label=Latest%20Project%20Activity&color=2ea44f)
-![Repo Count](https://img.shields.io/github/repos/user/emmanuel3186?style=for-the-badge&label=Public%20Repos&color=0969da)
+![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmanuel3186&show_icons=true&theme=dark)
 
 ---
 
